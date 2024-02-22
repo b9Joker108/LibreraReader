@@ -1,0 +1,333 @@
+repo_name: b9Joker108/LibreraReader
+report_id: def88b9312a8f991fba3a64bf267249a
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-22T12:08:30+00:00'
+requested_by: foobnix
+provider: github
+branch: master
+detected_tools_count: 25
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader
+  detection_source: Repo Metadata
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader
+  detection_source: Repo Metadata
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: Ivan Ivanenko
+  last_updated_on: 2024-01-05 15:49:42.000000000 Z
+- name: GreenDAO
+  description: An open source Android ORM making development for SQLite databases
+  website_url: http://greenrobot.org/greendao/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Mobile Database
+  image_url: https://img.stackshare.io/service/9611/logo300_400x400.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: foobnix
+  last_updated_on: 2021-12-16 12:18:39.000000000 Z
+- name: EventBus
+  description: An open-source library for Android and Java
+  website_url: http://greenrobot.org/eventbus/
+  version: 3.3.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/9610/no-img-open-source.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: foobnix
+  last_updated_on: 2021-12-16 12:18:39.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader/blob/master/Builder/build.gradle
+  detection_source: Builder/build.gradle
+  last_updated_by: foobnix
+  last_updated_on: 2019-02-12 10:02:07.000000000 Z
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/b9Joker108/LibreraReader/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: Ivan Ivanenko
+  last_updated_on: 2024-01-05 15:49:42.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader
+  detection_source: Repo Metadata
+- name: com.github.bumptech.glide:glide
+  description: A fast and efficient image loading library for Android focused on smooth
+    scrolling
+  version: 4.16.0
+  license: BSD-2-Clause,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: Ivan Ivanenko
+  last_updated_on: 2023-12-20 09:29:41.000000000 Z
+- name: com.github.junrar:junrar
+  description: Rar decompression library in plain java
+  version: 4.0.0
+  license: NRL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: Ivan Ivanenko
+  last_updated_on: 2023-12-20 09:29:41.000000000 Z
+  vulnerabilities:
+  - name: Junrar vulnerable to infinite loop via extracting carefully crafted RAR
+      archive
+    cve_id: CVE-2022-23596
+    cve_url: https://github.com/advisories/GHSA-m6cj-93v6-cvr5
+    detected_date: Feb 1
+    severity: high
+    first_patched: 7.4.1
+- name: com.google.apis:google-api-services-drive
+  description: Sonatype helps open source projects to set up Maven repositories on
+    https://oss.sonatype.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: Ivan Ivanenko
+  last_updated_on: 2023-12-20 09:29:41.000000000 Z
+- name: com.google.guava:guava
+  description: Guava is a suite of core and expanded libraries that include utility
+    classes
+  version: 32.1.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: Ivan Ivanenko
+  last_updated_on: 2023-12-20 09:29:41.000000000 Z
+- name: com.google.http-client:google-http-client-gson
+  description: Google HTTP Client Library for Java
+  version: 1.42.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: Ivan Ivanenko
+  last_updated_on: 2023-12-20 09:29:41.000000000 Z
+- name: com.squareup.okhttp3:okhttp
+  description: 'Null'
+  version: 3.12.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: Ivan Ivanenko
+  last_updated_on: 2023-12-20 09:29:41.000000000 Z
+- name: commons-logging:commons-logging-api
+  description: 'Version 99.0-does-not-exist is a dummy implementation with actually
+    does nothing, and most of all: it has no dependencies'
+  version: '1.1'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: Ivan Ivanenko
+  last_updated_on: 2023-09-15 19:06:19.000000000 Z
+- name: javax.xml.stream:stax-api
+  description: StAX is a standard XML processing API that allows you to stream XML
+    data from and to your application
+  version: '1.0'
+  license: CDDL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: foobnix
+  last_updated_on: 2022-10-19 12:19:42.000000000 Z
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: 4.13.2
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: TacoTheDank
+  last_updated_on: 2022-09-01 21:19:20.000000000 Z
+- name: net.lingala.zip4j:zip4j
+  description: Zip4j - A Java library for zip files and streams
+  version: 2.11.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: foobnix
+  last_updated_on: 2023-03-02 14:11:55.000000000 Z
+- name: org.jsoup:jsoup
+  description: Jsoup is a Java library for working with real-world HTML
+  version: 1.16.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: Ivan Ivanenko
+  last_updated_on: 2023-12-06 07:51:57.000000000 Z
+- name: org.nanohttpd:nanohttpd
+  description: Tiny, easily embeddable HTTP server in Java
+  version: 2.3.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/b9Joker108/LibreraReader/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: Ivan Ivanenko
+  last_updated_on: 2023-12-06 07:51:57.000000000 Z
+  vulnerabilities:
+  - name: XXS in NanoHTTPD
+    cve_id: CVE-2020-13697
+    cve_url: https://github.com/advisories/GHSA-pr5m-4w22-8483
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 
